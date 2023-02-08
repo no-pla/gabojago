@@ -1,10 +1,10 @@
-import { auth } from "../firebase/firebase";
 import {
   FacebookAuthProvider,
   GoogleAuthProvider,
   signInWithPopup,
 } from "firebase/auth";
 import { useState } from "react";
+import { auth } from "../firebase/firebase";
 
 function App() {
   const [userData, setUserData] = useState(null);
