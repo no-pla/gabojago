@@ -10,16 +10,22 @@
 
 저희는 이러한 경험을 바탕으로, 이용자들이 병원의 비용 정보와 경험담을 나누고, 궁금한 사항을 해결할 수 있는 Q&A 게시판을 제공하는 프로젝트를 기획하였습니다.
 ## Screenshots
-전체적인 기능
+
+### 전체적인 기능
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-메인페이지
+
+### 메인페이지
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-서치맵 페이지
+
+### 서치맵 페이지
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-Q&A페이지
+
+### Q&A페이지
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-마이페이지
+
+### 마이페이지
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 ## Tech Stack
 
 Client: Next, React, Recoil, Typescript, Javascript
